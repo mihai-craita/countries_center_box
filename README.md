@@ -1,5 +1,6 @@
-This repo contains a list of countries containing their center, south west and north east latitude and longitude.
+This repo contains a list of countries containing center, south west and north east latitude and longitude.
 The list can be used for centering on a country in google maps.
+
 Here is a code example:
 ```js
  function initialize() {
