@@ -1,7 +1,3 @@
-/**
- JSON countries position and boundaries
- */
-
 [
   {"id":"1","long_name":"Afghanistan","short_name":"AF","center_lat":"33.939110","center_lng":"67.709953","sw_lat":"29.377200","sw_lng":"60.517000","ne_lat":"38.490877","ne_lng":"74.889862"},
   {"id":"2","long_name":"Albania","short_name":"AL","center_lat":"41.153332","center_lng":"20.168331","sw_lat":"39.644730","sw_lng":"19.263904","ne_lat":"42.661082","ne_lng":"21.057239"},
