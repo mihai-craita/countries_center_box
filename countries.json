@@ -171,7 +171,7 @@
   {"id":"170","long_name":"Tuvalu","short_name":"TV","center_lat":"-7.478442","center_lng":"178.679921","sw_lat":"-10.791659","sw_lng":"176.058891","ne_lat":"-5.642230","ne_lng":"179.872261"},
   {"id":"171","long_name":"Uganda","short_name":"UG","center_lat":"1.373333","center_lng":"32.290275","sw_lat":"-1.481542","sw_lng":"29.573433","ne_lat":"4.223001","ne_lng":"35.033049"},
   {"id":"172","long_name":"Ukraine","short_name":"UA","center_lat":"48.379433","center_lng":"31.165580","sw_lat":"44.386463","sw_lng":"22.137159","ne_lat":"52.379581","ne_lng":"40.228581"},
-  {"id":"173","long_name":"United Kingdom","short_name":"GB","center_lat":"55.378051","center_lng":"-3.435973","sw_lat":"34.562515","sw_lng":"-8.649357","ne_lat":"60.860670","ne_lng":"33.916555"},
+  {"id":"173","long_name":"United Kingdom","short_name":"GB","center_lat":"55.378051","center_lng":"-3.435973","sw_lat":"49.562515","sw_lng":"-12.649357","ne_lat":"59.860670","ne_lng":"3.976555"},
   {"id":"174","long_name":"United States","short_name":"US","center_lat":"39.500240","center_lng":"-98.350891","sw_lat":"25.820898","sw_lng":"-124.712891","ne_lat":"49.380240","ne_lng":"-66.940662"},
   {"id":"175","long_name":"Uruguay","short_name":"UY","center_lat":"-32.522779","center_lng":"-55.765835","sw_lat":"-35.031419","sw_lng":"-58.439150","ne_lat":"-30.085215","ne_lng":"-53.184292"},
   {"id":"176","long_name":"Uzbekistan","short_name":"UZ","center_lat":"41.377491","center_lng":"64.585262","sw_lat":"37.172257","sw_lng":"55.998218","ne_lat":"45.590075","ne_lng":"73.148946"},
