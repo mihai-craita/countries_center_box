@@ -41,7 +41,7 @@
   {"id":"40","long_name":"Cuba","short_name":"CU","center_lat":"21.521757","center_lng":"-77.781167","sw_lat":"19.825899","sw_lng":"-85.071247","ne_lat":"23.276752","ne_lng":"-74.132223"},
   {"id":"41","long_name":"Cyprus","short_name":"CY","center_lat":"35.126413","center_lng":"33.429859","sw_lat":"34.632303","sw_lng":"32.268708","ne_lat":"35.707200","ne_lng":"34.604500"},
   {"id":"42","long_name":"Czech Republic","short_name":"CZ","center_lat":"49.817492","center_lng":"15.472962","sw_lat":"48.551808","sw_lng":"12.090589","ne_lat":"51.055719","ne_lng":"18.859236"},
-  {"id":"43","long_name":"Denmark","short_name":"DK","center_lat":"56.263920","center_lng":"9.501785","sw_lat":"54.464597","sw_lng":"8.072241","ne_lat":"57.751813","ne_lng":"15.197281"},
+  {"id":"43","long_name":"Denmark","short_name":"DK","center_lat":"56.1554671","center_lng":"10.4309955","sw_lat":"54.464597","sw_lng":"8.072241","ne_lat":"57.751813","ne_lng":"15.197281"},
   {"id":"44","long_name":"Djibouti","short_name":"DJ","center_lat":"11.825138","center_lng":"42.590275","sw_lat":"10.931944","sw_lng":"41.759722","ne_lat":"12.713396","ne_lng":"43.416973"},
   {"id":"45","long_name":"Dominica","short_name":"DM","center_lat":"15.414999","center_lng":"-61.370976","sw_lat":"15.207682","sw_lng":"-61.479830","ne_lat":"15.640064","ne_lng":"-61.240303"},
   {"id":"46","long_name":"Timor-Leste","short_name":"TL","center_lat":"-8.874217","center_lng":"125.727539","sw_lat":"-9.504195","sw_lng":"124.041738","ne_lat":"-8.126807","ne_lng":"127.341635"},
