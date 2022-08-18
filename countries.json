@@ -56,7 +56,7 @@
   {"id":"55","long_name":"France","short_name":"FR","center_lat":"46.227638","center_lng":"2.213749","sw_lat":"41.342328","sw_lng":"-5.141228","ne_lat":"51.089166","ne_lng":"9.560068"},
   {"id":"56","long_name":"Gabon","short_name":"GA","center_lat":"-0.803689","center_lng":"11.609444","sw_lat":"-3.958372","sw_lng":"8.699053","ne_lat":"2.318109","ne_lng":"14.520556"},
   {"id":"57","long_name":"The Gambia","short_name":"GM","center_lat":"13.443182","center_lng":"-15.310139","sw_lat":"13.065183","sw_lng":"-16.813631","ne_lat":"13.826389","ne_lng":"-13.798611"},
-  {"id":"58","long_name":"Georgia","short_name":"GA","center_lat":"32.165622","center_lng":"-82.900075","sw_lat":"30.355591","sw_lng":"-85.605165","ne_lat":"35.000659","ne_lng":"-80.840787"},
+  {"id":"58","long_name":"Georgia","short_name":"GE","center_lat":"32.165622","center_lng":"-82.900075","sw_lat":"30.355591","sw_lng":"-85.605165","ne_lat":"35.000659","ne_lng":"-80.840787"},
   {"id":"59","long_name":"Germany","short_name":"DE","center_lat":"51.165691","center_lng":"10.451526","sw_lat":"47.270112","sw_lng":"5.866342","ne_lat":"55.058347","ne_lng":"15.041896"},
   {"id":"60","long_name":"Ghana","short_name":"GH","center_lat":"7.946527","center_lng":"-1.023194","sw_lat":"4.738874","sw_lng":"-3.260786","ne_lat":"11.166668","ne_lng":"1.199363"},
   {"id":"61","long_name":"Greece","short_name":"GR","center_lat":"39.074208","center_lng":"21.824312","sw_lat":"34.801021","sw_lng":"19.372423","ne_lat":"41.748878","ne_lng":"29.645148"},
